@@ -1,23 +1,32 @@
-# PROJETO INTEGRADOR TRANSFORME-SE T02
+# Projeto Integrador — Sistema de Chamados
 
-## Sistema de Chamados – Segurança do Trabalho
+Projeto acadêmico desenvolvido no Programa Transforme-se T02, com proposta de criar um sistema de chamados para apoiar o registro e o acompanhamento de ocorrências relacionadas à Segurança do Trabalho.
 
-Projeto acadêmico desenvolvido no curso Transforme-se T02 com foco na criação de um sistema de chamados utilizando Windows Forms (C#).
+## Objetivo do escopo
 
-## 🎯 Objetivo
-Desenvolver um sistema com operações CRUD para registro e acompanhamento de ocorrências na área de Segurança do Trabalho.
+O MVP foi pensado para permitir:
 
-## ⚙️ Tecnologias
-- C#
-- Windows Forms
-- Banco de Dados Relacional
+- cadastro de ocorrências;
+- consulta com filtros;
+- alteração de dados;
+- exclusão preferencialmente lógica;
+- controle de status: aberto, em análise e resolvido.
 
-## 📌 Funcionalidades previstas
-- Cadastro de ocorrências
-- Consulta com filtros
-- Alteração de dados
-- Exclusão (preferencialmente lógica)
-- Controle de status (Aberto, Em análise, Resolvido)
+## Tecnologias previstas
 
-## 📅 Status
-Em planejamento (MVP – 30 dias)
+- C#;
+- Windows Forms;
+- banco de dados relacional.
+
+## Status
+
+Este repositório documenta o escopo inicial do projeto. A implementação do sistema não está publicada aqui; portanto, o projeto não é apresentado como concluído.
+
+## Próximos passos possíveis
+
+- definir e publicar a estrutura da solução;
+- registrar as decisões de modelagem do banco;
+- implementar o fluxo principal do MVP;
+- documentar testes, limitações e participação de cada integrante.
+
+> A documentação será atualizada caso uma versão executável ou novos artefatos do projeto sejam publicados.
